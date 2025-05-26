@@ -1,0 +1,12 @@
+{
+    "crons": [
+        {
+            "path": "/api/crons/unverified-subscribers",
+            "schedule": "0 0 * * *"
+        },
+        {
+            "path": "/api/crons/unsubscribed-contacts",
+            "schedule": "0 0 * * *"
+        }
+    ]
+}

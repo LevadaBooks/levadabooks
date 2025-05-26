@@ -1,0 +1,9 @@
+{
+    "title": "Server en",
+    "pageHeader": "Server page en",
+    "about": "About",
+    "contacts": "Contacts",
+    "counter": {
+        "count": "{{count}} selected"
+    }
+}

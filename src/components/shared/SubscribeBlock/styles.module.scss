@@ -1,0 +1,46 @@
+.subscribeCont {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    height: 10rem;
+}
+
+.subscribeInner {
+    width: 100%;
+    height: 100%;
+    max-width: 90rem;
+    border-radius: 30px;
+    background-color: #f0f0f0;
+}
+
+.subscribePromo {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.subscribePromoInfo,
+.subscribePromoForm {
+    width: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.subscribePromoForm, 
+.subscribePromoText {
+    flex-direction: column;
+}
+
+.subscribePromoImage {}
+
+.subscribePromoFormText {}
+
+.subscribePromoFormControl {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+}
