@@ -1,0 +1,11 @@
+.headerCont {
+    display: flex;
+    justify-content: space-between;
+    height: 6rem;
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    z-index: 1000;
+    background-color: rgb(100, 101, 130);
+}
